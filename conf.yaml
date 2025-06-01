@@ -62,5 +62,13 @@ smtp:
 specific_RSS:
    - name: "懋和道人"
      url: "https://www.dao.js.cn/feed.php"
+   - name: "甜鱼/Ayu"
+     url: "https://ayu.land/atom.zh.xml"
+   - name: "定の栈"
+     url: "https://blog.saop.cc/atom.xml"
+   - name: "醉月酿星河"
+     url: "https://blog.catrol.cn/atom.xml"
+   - name: "MHuiG"
+     url: "https://blog.mhuig.top/atom.xml"
   # - name: "無名小栈"
   #   url: "https://blog.imsyy.top/rss.xml"
