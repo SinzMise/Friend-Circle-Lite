@@ -60,7 +60,7 @@ smtp:
 #   name:               友链名称
 #   url:                指定的RSS地址
 specific_RSS:
-   - name: "懋和道人"
+   - name: "南蛮子懋和"
      url: "https://www.dao.js.cn/feed.php"
    - name: "甜鱼/Ayu"
      url: "https://ayu.land/atom.zh.xml"
