@@ -62,5 +62,7 @@ smtp:
 specific_RSS:
    - name: "南蛮子懋和"
      url: "https://www.dao.js.cn/feed.php"
+   - name: "Debug客栈"
+     url: "https://blog.debuginn.com/index.xml"
   # - name: "無名小栈"
   #   url: "https://blog.imsyy.top/rss.xml"
