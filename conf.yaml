@@ -8,11 +8,11 @@
 #     marge_json_path:  请填写网络地址的json文件，用于合并，不带空格！！！
 spider_settings:
   enable: true
-  json_url: "https://blog.liushen.fun/friend.json"
+  json_url: "https://blog.storical.fun/friend.json"
   article_count: 5
   merge_result:
     enable: false
-    merge_json_url: "https://fc.liushen.fun"
+    merge_json_url: "https://fc.blog.sinzmise.top"
 
 # 邮箱推送功能配置，暂未实现，等待后续开发
 # 解释：每天为指定邮箱推送所有友链文章的更新，仅能指定一个
@@ -60,7 +60,7 @@ smtp:
 #   name:               友链名称
 #   url:                指定的RSS地址
 specific_RSS:
-   - name: "阮一峰"
-     url: "http://feeds.feedburner.com/ruanyifeng"
+   - name: "南蛮子懋和"
+     url: "https://www.dao.js.cn/feed.php"
   # - name: "無名小栈"
   #   url: "https://blog.imsyy.top/rss.xml"
