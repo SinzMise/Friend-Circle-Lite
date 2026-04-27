@@ -64,5 +64,7 @@ specific_RSS:
      url: "https://www.dao.js.cn/feed.php"
    - name: "Debug客栈"
      url: "https://blog.debuginn.com/index.xml"
+   - name: "冷月笙寒的小窝"
+     url: "https://lygalaxy.cn/license/rss.php"
   # - name: "無名小栈"
   #   url: "https://blog.imsyy.top/rss.xml"
